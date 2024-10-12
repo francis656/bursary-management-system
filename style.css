@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: linear-gradient(to right, #00b4db, #0083b0);
+    color: #fff;
+}
+footer {
+    background: linear-gradient(to right, #00b4db, #0083b0);
+    color: #fff;
+}
+h1, h2 {
+    color: #333;
+}
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
