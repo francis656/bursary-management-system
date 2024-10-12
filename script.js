@@ -7,7 +7,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 
 // Countdown timer
 var countdownDate = new Date();
-countdownDate.setDate(countdownDate.getDate() + 21);
+countdownDate.setDate(countdownDate.getDate() + 30);
 var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countdownDate - now;
